@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none"
+  viewBox="0 0 27 27"
+>
+  <path fill="url(#paint0_linear_2163_47664)" fill-rule="evenodd"
+    d="M14.06 13.15a.5.5 0 0 0 0 .7l12.103 12.3a.5.5 0 0 1-.357.85H1.194a.5.5 0 0 1-.357-.85l12.104-12.3a.5.5 0 0 0 0-.7L.837.85A.5.5 0 0 1 1.194 0h24.612a.5.5 0 0 1 .357.85l-12.104 12.3Z"
+    clip-rule="evenodd"></path>
+  <path fill="url(#pattern-header-logo-g-0)" fill-rule="evenodd"
+    d="M14.06 13.15a.5.5 0 0 0 0 .7l12.103 12.3a.5.5 0 0 1-.357.85H1.194a.5.5 0 0 1-.357-.85l12.104-12.3a.5.5 0 0 0 0-.7L.837.85A.5.5 0 0 1 1.194 0h24.612a.5.5 0 0 1 .357.85l-12.104 12.3Z"
+    clip-rule="evenodd" style="mix-blend-mode: multiply"></path>
+  <defs>
+    <linearGradient id="paint0_linear_2163_47664" x1="-.894" x2="26.442" y1="-.85" y2="33.433"
+      gradientUnits="userSpaceOnUse">
+      <stop offset=".27" stop-color="#FEC5FB"></stop>
+      <stop offset=".838" stop-color="#00BAE2"></stop>
+    </linearGradient>
+    <pattern id="pattern-header-logo-g-0" width="3.704" height="3.704"
+      patternContentUnits="objectBoundingBox">
+      <use xlink:href="#svg-noise" transform="scale(.0074)"></use>
+    </pattern>
+  </defs>
+</svg>

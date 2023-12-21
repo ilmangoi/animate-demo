@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none"
+  viewBox="0 0 29 29"
+>
+  <path fill="url(#gradient-header-logo-a-0)"
+    d="M.018 28.751 6.72 15.453a9.58 9.58 0 0 1-1.94-5.921C4.848 4.327 9.12.075 14.356.001c5.237-.074 9.864 4.276 9.864 9.66a9.58 9.58 0 0 1-1.94 5.793l6.701 13.298a.171.171 0 0 1-.153.248H.172a.171.171 0 0 1-.154-.248Z"></path>
+  <path fill="url(#pattern-header-logo-a-2)" fill-opacity=".6"
+    d="M.018 28.751 6.72 15.453a9.58 9.58 0 0 1-1.94-5.921C4.848 4.327 9.12.075 14.356.001c5.237-.074 9.864 4.276 9.864 9.66a9.58 9.58 0 0 1-1.94 5.793l6.701 13.298a.171.171 0 0 1-.153.248H.172a.171.171 0 0 1-.154-.248Z"
+    style="mix-blend-mode: multiply"></path>
+  <defs>
+    <linearGradient id="gradient-header-logo-a-0" x1="40.584" x2="44.885" y1="9.571" y2="28.052"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0AE448"></stop>
+      <stop offset="1" stop-color="#0085D0"></stop>
+    </linearGradient>
+    <pattern id="pattern-header-logo-a-2" width="6.897" height="6.897"
+      patternContentUnits="objectBoundingBox">
+      <use xlink:href="#svg-noise" transform="scale(.0138)"></use>
+    </pattern>
+  </defs>
+</svg>
